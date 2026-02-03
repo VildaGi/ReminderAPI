@@ -1,4 +1,4 @@
-package com.github.VildaGi.game;
+package com.github.VildaGi.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

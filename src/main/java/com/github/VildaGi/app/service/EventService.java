@@ -1,7 +1,7 @@
-package com.github.VildaGi.game.service;
+package com.github.VildaGi.app.service;
 
-import com.github.VildaGi.game.model.EventStatus;
-import com.github.VildaGi.game.model.SimpleEvent;
+import com.github.VildaGi.app.model.EventStatus;
+import com.github.VildaGi.app.model.SimpleEvent;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDate;

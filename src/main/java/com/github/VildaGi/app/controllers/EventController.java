@@ -1,6 +1,6 @@
-package com.github.VildaGi.game.controllers;
+package com.github.VildaGi.app.controllers;
 
-import com.github.VildaGi.game.service.EventService;
+import com.github.VildaGi.app.service.EventService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

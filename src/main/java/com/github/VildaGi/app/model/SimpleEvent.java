@@ -1,4 +1,4 @@
-package com.github.VildaGi.game.model;
+package com.github.VildaGi.app.model;
 
 import java.time.LocalDate;
 
